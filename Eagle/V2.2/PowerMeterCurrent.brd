@@ -3171,112 +3171,112 @@ design rules under a new name.</description>
 <element name="J1" library="SJ2-35813B-SMT-TR" package="CUI_SJ2-35813B-SMT-TR" value="SJ2-35813B-SMT-TR" x="13.97" y="74.295" smashed="yes" rot="R270">
 <attribute name="MANUFACTURER" value="CUI" x="13.97" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="SJ2-35813B-SMT-TR" x="13.97" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="19.9908" y="82.82446875" size="1.2744" layer="25" rot="R270"/>
+<attribute name="NAME" x="9.8308" y="67.58446875" size="1.2744" layer="25" rot="R270"/>
 <attribute name="PART_REV" value="1.01" x="13.97" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="STANDARD" value="Manufacturer recommendation" x="13.97" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="J2" library="SJ2-35813B-SMT-TR" package="CUI_SJ2-35813B-SMT-TR" value="SJ2-35813B-SMT-TR" x="27.94" y="74.295" smashed="yes" rot="R270">
 <attribute name="MANUFACTURER" value="CUI" x="27.94" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="SJ2-35813B-SMT-TR" x="27.94" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="33.9608" y="82.82446875" size="1.2744" layer="25" rot="R270"/>
+<attribute name="NAME" x="23.8008" y="67.58446875" size="1.2744" layer="25" rot="R270"/>
 <attribute name="PART_REV" value="1.01" x="27.94" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="STANDARD" value="Manufacturer recommendation" x="27.94" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="J3" library="SJ2-35813B-SMT-TR" package="CUI_SJ2-35813B-SMT-TR" value="SJ2-35813B-SMT-TR" x="41.91" y="74.295" smashed="yes" rot="R270">
 <attribute name="MANUFACTURER" value="CUI" x="41.91" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="SJ2-35813B-SMT-TR" x="41.91" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="47.9308" y="82.82446875" size="1.2744" layer="25" rot="R270"/>
+<attribute name="NAME" x="37.7708" y="67.58446875" size="1.2744" layer="25" rot="R270"/>
 <attribute name="PART_REV" value="1.01" x="41.91" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="STANDARD" value="Manufacturer recommendation" x="41.91" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="J4" library="SJ2-35813B-SMT-TR" package="CUI_SJ2-35813B-SMT-TR" value="SJ2-35813B-SMT-TR" x="55.88" y="74.295" smashed="yes" rot="R270">
 <attribute name="MANUFACTURER" value="CUI" x="55.88" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="SJ2-35813B-SMT-TR" x="55.88" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="61.9008" y="82.82446875" size="1.2744" layer="25" rot="R270"/>
+<attribute name="NAME" x="51.7408" y="67.58446875" size="1.2744" layer="25" rot="R270"/>
 <attribute name="PART_REV" value="1.01" x="55.88" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="STANDARD" value="Manufacturer recommendation" x="55.88" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="J5" library="SJ2-35813B-SMT-TR" package="CUI_SJ2-35813B-SMT-TR" value="SJ2-35813B-SMT-TR" x="69.85" y="74.295" smashed="yes" rot="R270">
 <attribute name="MANUFACTURER" value="CUI" x="69.85" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="SJ2-35813B-SMT-TR" x="69.85" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="75.8708" y="82.82446875" size="1.2744" layer="25" rot="R270"/>
+<attribute name="NAME" x="65.7108" y="67.58446875" size="1.2744" layer="25" rot="R270"/>
 <attribute name="PART_REV" value="1.01" x="69.85" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="STANDARD" value="Manufacturer recommendation" x="69.85" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="J6" library="SJ2-35813B-SMT-TR" package="CUI_SJ2-35813B-SMT-TR" value="SJ2-35813B-SMT-TR" x="83.82" y="74.295" smashed="yes" rot="R270">
 <attribute name="MANUFACTURER" value="CUI" x="83.82" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="SJ2-35813B-SMT-TR" x="83.82" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="89.8408" y="82.82446875" size="1.2744" layer="25" rot="R270"/>
+<attribute name="NAME" x="79.6808" y="67.58446875" size="1.2744" layer="25" rot="R270"/>
 <attribute name="PART_REV" value="1.01" x="83.82" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="STANDARD" value="Manufacturer recommendation" x="83.82" y="74.295" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="J7" library="SJ2-35813B-SMT-TR" package="CUI_SJ2-35813B-SMT-TR" value="SJ2-35813B-SMT-TR" x="94.615" y="60.96" smashed="yes" rot="R180">
 <attribute name="MANUFACTURER" value="CUI" x="94.615" y="60.96" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="SJ2-35813B-SMT-TR" x="94.615" y="60.96" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="103.14446875" y="54.9392" size="1.2744" layer="25" rot="R180"/>
+<attribute name="NAME" x="87.90446875" y="65.0992" size="1.2744" layer="25" rot="R180"/>
 <attribute name="PART_REV" value="1.01" x="94.615" y="60.96" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="STANDARD" value="Manufacturer recommendation" x="94.615" y="60.96" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="J8" library="SJ2-35813B-SMT-TR" package="CUI_SJ2-35813B-SMT-TR" value="SJ2-35813B-SMT-TR" x="94.615" y="46.99" smashed="yes" rot="R180">
 <attribute name="MANUFACTURER" value="CUI" x="94.615" y="46.99" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="SJ2-35813B-SMT-TR" x="94.615" y="46.99" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="103.14446875" y="40.9692" size="1.2744" layer="25" rot="R180"/>
+<attribute name="NAME" x="87.90446875" y="51.1292" size="1.2744" layer="25" rot="R180"/>
 <attribute name="PART_REV" value="1.01" x="94.615" y="46.99" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="STANDARD" value="Manufacturer recommendation" x="94.615" y="46.99" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="J9" library="SJ2-35813B-SMT-TR" package="CUI_SJ2-35813B-SMT-TR" value="SJ2-35813B-SMT-TR" x="94.615" y="33.02" smashed="yes" rot="R180">
 <attribute name="MANUFACTURER" value="CUI" x="94.615" y="33.02" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="SJ2-35813B-SMT-TR" x="94.615" y="33.02" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="103.14446875" y="26.9992" size="1.2744" layer="25" rot="R180"/>
+<attribute name="NAME" x="87.90446875" y="37.1592" size="1.2744" layer="25" rot="R180"/>
 <attribute name="PART_REV" value="1.01" x="94.615" y="33.02" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="STANDARD" value="Manufacturer recommendation" x="94.615" y="33.02" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="J10" library="SJ2-35813B-SMT-TR" package="CUI_SJ2-35813B-SMT-TR" value="SJ2-35813B-SMT-TR" x="94.615" y="19.05" smashed="yes" rot="R180">
 <attribute name="MANUFACTURER" value="CUI" x="94.615" y="19.05" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="SJ2-35813B-SMT-TR" x="94.615" y="19.05" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="103.14446875" y="13.0292" size="1.2744" layer="25" rot="R180"/>
+<attribute name="NAME" x="87.90446875" y="23.1892" size="1.2744" layer="25" rot="R180"/>
 <attribute name="PART_REV" value="1.01" x="94.615" y="19.05" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="STANDARD" value="Manufacturer recommendation" x="94.615" y="19.05" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="J11" library="SJ2-35813B-SMT-TR" package="CUI_SJ2-35813B-SMT-TR" value="SJ2-35813B-SMT-TR" x="83.82" y="5.715" smashed="yes" rot="R90">
 <attribute name="MANUFACTURER" value="CUI" x="83.82" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="SJ2-35813B-SMT-TR" x="83.82" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="77.7992" y="-2.81446875" size="1.2744" layer="25" rot="R90"/>
+<attribute name="NAME" x="80.3392" y="12.42553125" size="1.2744" layer="25" rot="R90"/>
 <attribute name="PART_REV" value="1.01" x="83.82" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="STANDARD" value="Manufacturer recommendation" x="83.82" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="J12" library="SJ2-35813B-SMT-TR" package="CUI_SJ2-35813B-SMT-TR" value="SJ2-35813B-SMT-TR" x="69.85" y="5.715" smashed="yes" rot="R90">
 <attribute name="MANUFACTURER" value="CUI" x="69.85" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="SJ2-35813B-SMT-TR" x="69.85" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="63.8292" y="-2.81446875" size="1.2744" layer="25" rot="R90"/>
+<attribute name="NAME" x="66.3692" y="12.42553125" size="1.2744" layer="25" rot="R90"/>
 <attribute name="PART_REV" value="1.01" x="69.85" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="STANDARD" value="Manufacturer recommendation" x="69.85" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="J13" library="SJ2-35813B-SMT-TR" package="CUI_SJ2-35813B-SMT-TR" value="SJ2-35813B-SMT-TR" x="55.88" y="5.715" smashed="yes" rot="R90">
 <attribute name="MANUFACTURER" value="CUI" x="55.88" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="SJ2-35813B-SMT-TR" x="55.88" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="49.8592" y="-2.81446875" size="1.2744" layer="25" rot="R90"/>
+<attribute name="NAME" x="52.3992" y="12.42553125" size="1.2744" layer="25" rot="R90"/>
 <attribute name="PART_REV" value="1.01" x="55.88" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="STANDARD" value="Manufacturer recommendation" x="55.88" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="J14" library="SJ2-35813B-SMT-TR" package="CUI_SJ2-35813B-SMT-TR" value="SJ2-35813B-SMT-TR" x="41.91" y="5.715" smashed="yes" rot="R90">
 <attribute name="MANUFACTURER" value="CUI" x="41.91" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="SJ2-35813B-SMT-TR" x="41.91" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="35.8892" y="-2.81446875" size="1.2744" layer="25" rot="R90"/>
+<attribute name="NAME" x="38.4292" y="12.42553125" size="1.2744" layer="25" rot="R90"/>
 <attribute name="PART_REV" value="1.01" x="41.91" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="STANDARD" value="Manufacturer recommendation" x="41.91" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="J15" library="SJ2-35813B-SMT-TR" package="CUI_SJ2-35813B-SMT-TR" value="SJ2-35813B-SMT-TR" x="27.94" y="5.715" smashed="yes" rot="R90">
 <attribute name="MANUFACTURER" value="CUI" x="27.94" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="SJ2-35813B-SMT-TR" x="27.94" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="21.9192" y="-2.81446875" size="1.2744" layer="25" rot="R90"/>
+<attribute name="NAME" x="24.4592" y="12.42553125" size="1.2744" layer="25" rot="R90"/>
 <attribute name="PART_REV" value="1.01" x="27.94" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="STANDARD" value="Manufacturer recommendation" x="27.94" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="J16" library="SJ2-35813B-SMT-TR" package="CUI_SJ2-35813B-SMT-TR" value="SJ2-35813B-SMT-TR" x="13.97" y="5.715" smashed="yes" rot="R90">
 <attribute name="MANUFACTURER" value="CUI" x="13.97" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="SJ2-35813B-SMT-TR" x="13.97" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="7.9492" y="-2.81446875" size="1.2744" layer="25" rot="R90"/>
+<attribute name="NAME" x="10.4892" y="12.42553125" size="1.2744" layer="25" rot="R90"/>
 <attribute name="PART_REV" value="1.01" x="13.97" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="STANDARD" value="Manufacturer recommendation" x="13.97" y="5.715" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
